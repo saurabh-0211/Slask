@@ -1,1 +1,3 @@
-# Slask
+# Slask - Don't slack the time
+
+It's a Todo List Application which will going to help you to mange your tasks more efficiently...
