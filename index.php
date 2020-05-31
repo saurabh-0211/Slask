@@ -24,7 +24,7 @@ if (isset($_POST['submit'])) {
   $task = $_POST['task'];
 
   if (isset($_SESSION['email'])){
-    $email = $_SESSION['email'];
+    $email = $_SESSION['email']; #current user's email
   }
 
   if (empty($task)) {
